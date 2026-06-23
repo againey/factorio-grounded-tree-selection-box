@@ -1,0 +1,7 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 23. 06. 2026
+  Features:
+    - Initial release
+    - Adjusts tree selection box to be less obtrusive
+    - Configurable settings to control size basis, position, shape, padding, and size limits

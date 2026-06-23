@@ -1,0 +1,15 @@
+{
+	"name": "grounded-tree-selection-box",
+	"version": "1.0.0",
+	"title": "Grounded Tree Selection Box",
+	"description": "Adjusts the mouse cursor selection boxes of trees to be less obtrusive, making it easier to interact with entities behind trees without removing the trees first.",
+	"author": "Andy Gainey",
+	"factorio_version": "2.0",
+	"dependencies": ["base >= 2.0", "? space-age >= 2.0"],
+	"quality_required": false,
+	"space_travel_required": false,
+	"spoiling_required": false,
+	"freezing_required": false,
+	"segmented_units_required": false,
+	"expansion_shaders_required": false
+}
